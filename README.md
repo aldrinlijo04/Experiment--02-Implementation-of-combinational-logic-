@@ -57,8 +57,8 @@ The NOT gate is a fundamental digital logic gate. It has a single input and a si
 ## Program:
 ```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: JANANI.S
-RegisterNumber: 212222230049 
+Developed by: ALDRIN LIJO J E
+RegisterNumber: 212222240007
 ```
 ```
 module exp2(A,B,C,D,F1);
